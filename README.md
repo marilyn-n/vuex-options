@@ -23,3 +23,5 @@ store.dispatch('setMyAction')
 
 ## Modules
 
+## Store access from all Components
+
