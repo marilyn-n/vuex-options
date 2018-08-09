@@ -9,6 +9,13 @@ Its the data in its initial/natural state
 
 ## Mutations
 
+Mutations are used to change the state in  the Vuex store. The only way to actually change state is by committing a mutation. 
+
+- Execute mutations with commit
+```
+commit('Products')
+```
+
 ## Actions
 
 - Dispatch is used for calling actions
