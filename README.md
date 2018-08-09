@@ -18,6 +18,8 @@ commit('Products')
 
 ## Actions
 
+Vuex actions are responsible for handling the logic of when a mutation should be fired (dispatched method).
+
 - Dispatch is used for calling actions
 ```
 store.dispatch('setMyAction') 
